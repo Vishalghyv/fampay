@@ -1,0 +1,8 @@
+package com.vishal.contextualcards.data.models
+
+data class CallToAction(
+        val text: String,
+        val bg_color: String? = null,
+        val url: String? = null,
+        val text_color: String? = null,
+)
