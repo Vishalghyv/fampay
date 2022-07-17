@@ -2,6 +2,8 @@
 
 Fampay AAL3 - Android Assignment
 
+APK - [download](https://github.com/Vishalghyv/fampay/blob/main/app-debug.apk)
+
 ## Technical Details
 - Framework - Kotlin + XML
 - MVVM model
